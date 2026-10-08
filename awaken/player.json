@@ -2,7 +2,7 @@
   "login": "LEQUOCSI0302",
   "level": 9,
   "overall": "B",
-  "overallPercentile": 0.8497032384948058,
+  "overallPercentile": 0.8549946504388742,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 146,
+      "value": 149,
       "rank": "B",
-      "percentile": 0.7584405592016783
+      "percentile": 0.7624811804371813
     },
     {
       "code": "AGI",
-      "value": 40,
+      "value": 41,
       "rank": "S",
-      "percentile": 0.9476889854197987
+      "percentile": 0.9492171917995365
     },
     {
       "code": "INT",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 8,
+      "value": 9,
       "rank": "A",
-      "percentile": 0.8870569955105061
+      "percentile": 0.9145434310833055
     },
     {
       "code": "LUK",
@@ -53,22 +53,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 38
+      "value": 39
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 25
+      "value": 26
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 38
+      "value": 39
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 146
+      "value": 149
     },
     {
       "id": "unbroken",
@@ -88,7 +88,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 31
+      "value": 30
     },
     {
       "id": "gate-opener",
@@ -98,7 +98,7 @@
     {
       "id": "raider",
       "tier": 2,
-      "value": 31
+      "value": 32
     },
     {
       "id": "flawless",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 2
+      "value": 4
     },
     {
       "id": "boss-slayer",
@@ -179,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-08",
+        "cleared": 2,
+        "total": 3
+      },
+      {
         "date": "2026-10-07",
         "cleared": 2,
         "total": 3
@@ -187,7 +192,7 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 2,
+    "questsDone": 4,
     "bosses": [],
     "escapes": 1,
     "kinds": [
@@ -195,5 +200,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-08T03:49:57.280Z"
+  "syncedAt": "2026-10-08T22:03:32.055Z"
 }
