@@ -2,7 +2,7 @@
   "login": "LEQUOCSI0302",
   "level": 9,
   "overall": "B",
-  "overallPercentile": 0.8564578439035175,
+  "overallPercentile": 0.8568119667377816,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 157,
+      "value": 159,
       "rank": "B",
-      "percentile": 0.7727053009137045
+      "percentile": 0.7751435484667849
     },
     {
       "code": "AGI",
@@ -90,7 +90,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 157
+      "value": 159
     },
     {
       "id": "unbroken",
@@ -100,7 +100,7 @@
     {
       "id": "night-owl",
       "tier": 1,
-      "value": 24
+      "value": 23
     },
     {
       "id": "early-bird",
@@ -135,7 +135,7 @@
     {
       "id": "polyglot",
       "tier": 2,
-      "value": 5
+      "value": 6
     },
     {
       "id": "star-collector",
@@ -155,7 +155,7 @@
     {
       "id": "veteran",
       "tier": 2,
-      "value": 3
+      "value": 4
     },
     {
       "id": "berserker",
@@ -165,22 +165,22 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 48
+      "value": 49
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 13
+      "value": 16
     },
     {
       "id": "boss-slayer",
@@ -200,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-14",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-13",
         "cleared": 2,
@@ -236,10 +241,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 0,
-    "run": 0,
-    "bestRun": 0,
-    "questsDone": 13,
+    "perfectDays": 1,
+    "run": 1,
+    "bestRun": 1,
+    "questsDone": 16,
     "bosses": [
       "2026-10-05"
     ],
@@ -251,5 +256,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-13T21:50:13.848Z"
+  "syncedAt": "2026-10-14T20:42:16.971Z"
 }
