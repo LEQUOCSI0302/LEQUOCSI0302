@@ -2,7 +2,7 @@
   "login": "LEQUOCSI0302",
   "level": 10,
   "overall": "B",
-  "overallPercentile": 0.8619988485526366,
+  "overallPercentile": 0.8627099286418793,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 164,
+      "value": 165,
       "rank": "B",
-      "percentile": 0.7810468055122042
+      "percentile": 0.7821956482559058
     },
     {
       "code": "AGI",
-      "value": 43,
+      "value": 44,
       "rank": "S",
-      "percentile": 0.9520784704742307
+      "percentile": 0.9534190404477497
     },
     {
       "code": "INT",
@@ -76,13 +76,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-10T20:33:41.445Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "polyglot",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-09T21:39:55.809Z"
     }
   ],
   "achievements": [
@@ -104,7 +97,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 164
+      "value": 165
     },
     {
       "id": "unbroken",
@@ -139,7 +132,7 @@
     {
       "id": "flawless",
       "tier": 2,
-      "value": 95
+      "value": 93
     },
     {
       "id": "healer",
@@ -179,12 +172,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 51
+      "value": 52
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "perfect-week",
@@ -194,7 +187,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 21
+      "value": 24
     },
     {
       "id": "boss-slayer",
@@ -214,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-17",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-16",
         "cleared": 2,
@@ -265,10 +263,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 2,
-    "run": 0,
+    "perfectDays": 3,
+    "run": 1,
     "bestRun": 2,
-    "questsDone": 21,
+    "questsDone": 24,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -283,5 +281,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-10-16T19:56:26.011Z"
+  "syncedAt": "2026-10-17T19:22:02.603Z"
 }
