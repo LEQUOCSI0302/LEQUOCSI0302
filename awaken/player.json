@@ -2,7 +2,7 @@
   "login": "LEQUOCSI0302",
   "level": 10,
   "overall": "B",
-  "overallPercentile": 0.8627099286418793,
+  "overallPercentile": 0.8576430745831956,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 165,
+      "value": 156,
       "rank": "B",
-      "percentile": 0.7821956482559058
+      "percentile": 0.7714690806314985
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 10,
+      "value": 9,
       "rank": "A",
-      "percentile": 0.9348315269247548
+      "percentile": 0.9145434310833055
     },
     {
       "code": "LUK",
@@ -69,20 +69,13 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-12T23:37:01.261Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "boss-slayer",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-10T20:33:41.445Z"
     }
   ],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 41
+      "value": 42
     },
     {
       "id": "quickdraw",
@@ -92,22 +85,22 @@
     {
       "id": "yolo",
       "tier": 2,
-      "value": 41
+      "value": 42
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 165
+      "value": 156
     },
     {
       "id": "unbroken",
       "tier": 0,
-      "value": 5
+      "value": 4
     },
     {
       "id": "night-owl",
       "tier": 1,
-      "value": 23
+      "value": 24
     },
     {
       "id": "early-bird",
@@ -122,17 +115,17 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 6
+      "value": 5
     },
     {
       "id": "raider",
       "tier": 2,
-      "value": 34
+      "value": 35
     },
     {
       "id": "flawless",
       "tier": 2,
-      "value": 93
+      "value": 95
     },
     {
       "id": "healer",
@@ -141,8 +134,8 @@
     },
     {
       "id": "polyglot",
-      "tier": 2,
-      "value": 5
+      "tier": 1,
+      "value": 4
     },
     {
       "id": "star-collector",
@@ -171,8 +164,8 @@
     },
     {
       "id": "diligent",
-      "tier": 1,
-      "value": 52
+      "tier": 0,
+      "value": 44
     },
     {
       "id": "daily-grinder",
@@ -187,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 24
+      "value": 26
     },
     {
       "id": "boss-slayer",
@@ -207,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-18",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-17",
         "cleared": 3,
@@ -264,9 +262,9 @@
       }
     ],
     "perfectDays": 3,
-    "run": 1,
+    "run": 0,
     "bestRun": 2,
-    "questsDone": 24,
+    "questsDone": 26,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -281,5 +279,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-10-17T19:22:02.603Z"
+  "syncedAt": "2026-10-18T19:25:10.340Z"
 }
