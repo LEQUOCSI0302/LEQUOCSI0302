@@ -62,13 +62,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-15T20:19:57.657Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-12T23:37:01.261Z"
     }
   ],
   "achievements": [
@@ -201,6 +194,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-20",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-19",
         "cleared": 1,
         "total": 3
@@ -284,5 +282,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-10-19T21:30:58.570Z"
+  "syncedAt": "2026-10-20T20:34:05.452Z"
 }
