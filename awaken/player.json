@@ -50,18 +50,18 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "1",
+      "to": "2",
+      "at": "2026-10-22T20:33:14.987Z"
+    },
+    {
       "kind": "level",
       "subject": "Level",
       "from": "9",
       "to": "10",
       "at": "2026-10-16T19:56:26.011Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "diligent",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-15T20:19:57.657Z"
     }
   ],
   "achievements": [
@@ -163,7 +163,7 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 3
+      "value": 4
     },
     {
       "id": "perfect-week",
@@ -173,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 29
+      "value": 32
     },
     {
       "id": "boss-slayer",
@@ -187,12 +187,17 @@
     },
     {
       "id": "collector",
-      "tier": 1,
-      "value": 6
+      "tier": 2,
+      "value": 7
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-22",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-21",
         "cleared": 2,
@@ -269,10 +274,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 3,
-    "run": 0,
+    "perfectDays": 4,
+    "run": 1,
     "bestRun": 2,
-    "questsDone": 29,
+    "questsDone": 32,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -284,8 +289,9 @@
       "streak",
       "mp",
       "two-repos",
-      "average"
+      "average",
+      "three"
     ]
   },
-  "syncedAt": "2026-10-21T20:37:05.448Z"
+  "syncedAt": "2026-10-22T20:33:14.987Z"
 }
