@@ -55,13 +55,6 @@
       "from": "1",
       "to": "2",
       "at": "2026-10-22T20:33:14.987Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "9",
-      "to": "10",
-      "at": "2026-10-16T19:56:26.011Z"
     }
   ],
   "achievements": [
@@ -194,6 +187,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-23",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-22",
         "cleared": 3,
         "total": 3
@@ -275,7 +273,7 @@
       }
     ],
     "perfectDays": 4,
-    "run": 1,
+    "run": 0,
     "bestRun": 2,
     "questsDone": 32,
     "bosses": [
@@ -293,5 +291,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-22T20:33:14.987Z"
+  "syncedAt": "2026-10-23T20:26:27.379Z"
 }
