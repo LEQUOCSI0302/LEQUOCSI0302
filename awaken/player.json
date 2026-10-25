@@ -2,7 +2,7 @@
   "login": "LEQUOCSI0302",
   "level": 10,
   "overall": "B",
-  "overallPercentile": 0.8600574936483767,
+  "overallPercentile": 0.8638781845473527,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 160,
+      "value": 161,
       "rank": "B",
-      "percentile": 0.7763458854882952
+      "percentile": 0.7775372331284446
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 9,
+      "value": 10,
       "rank": "A",
-      "percentile": 0.9145434310833055
+      "percentile": 0.9348315269247548
     },
     {
       "code": "LUK",
@@ -49,6 +49,20 @@
     }
   ],
   "events": [
+    {
+      "kind": "achievement",
+      "subject": "gate-opener",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-25T19:35:01.235Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "escape-artist",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-25T19:35:01.235Z"
+    },
     {
       "kind": "achievement",
       "subject": "collector",
@@ -76,7 +90,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 160
+      "value": 161
     },
     {
       "id": "unbroken",
@@ -96,12 +110,12 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 30
+      "value": 31
     },
     {
       "id": "gate-opener",
-      "tier": 0,
-      "value": 4
+      "tier": 1,
+      "value": 5
     },
     {
       "id": "raider",
@@ -151,7 +165,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 45
+      "value": 46
     },
     {
       "id": "daily-grinder",
@@ -166,17 +180,17 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 32
+      "value": 33
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 2
+      "value": 3
     },
     {
       "id": "escape-artist",
-      "tier": 0,
-      "value": 2
+      "tier": 1,
+      "value": 3
     },
     {
       "id": "collector",
@@ -186,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-25",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-24",
         "cleared": 0,
@@ -280,12 +299,13 @@
     "perfectDays": 4,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 32,
+    "questsDone": 33,
     "bosses": [
+      "2026-10-19",
       "2026-10-12",
       "2026-10-05"
     ],
-    "escapes": 2,
+    "escapes": 3,
     "kinds": [
       "contribute",
       "commit",
@@ -296,5 +316,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-24T19:28:51.492Z"
+  "syncedAt": "2026-10-25T19:35:01.235Z"
 }
