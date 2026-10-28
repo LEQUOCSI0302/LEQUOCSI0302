@@ -37,7 +37,7 @@
 
 <p align="center">
 <img src="awaken/oracle-dark.svg" width="49%" alt="LEQUOCSI0302: oracle scroll">
-<img src="awaken/daily-dark.svg" width="49%" alt="LEQUOCSI0302: penalty zone">
+<img src="awaken/daily-dark.svg" width="49%" alt="LEQUOCSI0302: daily quest">
 </p>
 
 <p align="center">
