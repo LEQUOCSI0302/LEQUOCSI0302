@@ -2,7 +2,7 @@
   "login": "LEQUOCSI0302",
   "level": 10,
   "overall": "B",
-  "overallPercentile": 0.8640783280739391,
+  "overallPercentile": 0.8642772614772477,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 162,
+      "value": 163,
       "rank": "B",
-      "percentile": 0.7787177392927809
+      "percentile": 0.7798875492138374
     },
     {
       "code": "AGI",
@@ -62,13 +62,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-25T19:35:01.235Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-22T20:33:14.987Z"
     }
   ],
   "achievements": [
@@ -90,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 162
+      "value": 163
     },
     {
       "id": "unbroken",
@@ -165,7 +158,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 47
+      "value": 48
     },
     {
       "id": "daily-grinder",
@@ -180,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 36
+      "value": 38
     },
     {
       "id": "boss-slayer",
@@ -200,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-29",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-28",
         "cleared": 1,
@@ -314,7 +312,7 @@
     "perfectDays": 4,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 36,
+    "questsDone": 38,
     "bosses": [
       "2026-10-19",
       "2026-10-12",
@@ -331,5 +329,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-28T21:38:48.070Z"
+  "syncedAt": "2026-10-29T21:47:32.990Z"
 }
