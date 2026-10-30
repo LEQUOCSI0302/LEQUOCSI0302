@@ -51,6 +51,13 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "polyglot",
+      "from": "1",
+      "to": "2",
+      "at": "2026-10-30T21:28:51.042Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "gate-opener",
       "from": "0",
       "to": "1",
@@ -127,8 +134,8 @@
     },
     {
       "id": "polyglot",
-      "tier": 1,
-      "value": 4
+      "tier": 2,
+      "value": 5
     },
     {
       "id": "star-collector",
@@ -173,12 +180,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 38
+      "value": 40
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 3
+      "value": 4
     },
     {
       "id": "escape-artist",
@@ -193,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-30",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-29",
         "cleared": 2,
@@ -312,8 +324,9 @@
     "perfectDays": 4,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 38,
+    "questsDone": 40,
     "bosses": [
+      "2026-10-26",
       "2026-10-19",
       "2026-10-12",
       "2026-10-05"
@@ -329,5 +342,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-29T21:47:32.990Z"
+  "syncedAt": "2026-10-30T21:28:51.042Z"
 }
