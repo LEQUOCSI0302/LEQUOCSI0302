@@ -2,7 +2,7 @@
   "login": "LEQUOCSI0302",
   "level": 10,
   "overall": "B",
-  "overallPercentile": 0.8642772614772477,
+  "overallPercentile": 0.8655989724081529,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 163,
+      "value": 166,
       "rank": "B",
-      "percentile": 0.7798875492138374
+      "percentile": 0.7833342150181406
     },
     {
       "code": "AGI",
-      "value": 48,
+      "value": 49,
       "rank": "S",
-      "percentile": 0.9582561952292474
+      "percentile": 0.9593481402541741
     },
     {
       "code": "INT",
@@ -75,22 +75,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 45
+      "value": 46
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 30
+      "value": 31
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 45
+      "value": 46
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 163
+      "value": 166
     },
     {
       "id": "unbroken",
@@ -100,7 +100,7 @@
     {
       "id": "night-owl",
       "tier": 1,
-      "value": 24
+      "value": 23
     },
     {
       "id": "early-bird",
@@ -110,7 +110,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 30
+      "value": 32
     },
     {
       "id": "gate-opener",
@@ -165,12 +165,12 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 48
+      "value": 49
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 4
+      "value": 5
     },
     {
       "id": "perfect-week",
@@ -180,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 40
+      "value": 43
     },
     {
       "id": "boss-slayer",
@@ -195,11 +195,16 @@
     {
       "id": "collector",
       "tier": 2,
-      "value": 7
+      "value": 8
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-31",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-30",
         "cleared": 2,
@@ -321,10 +326,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 4,
-    "run": 0,
+    "perfectDays": 5,
+    "run": 1,
     "bestRun": 2,
-    "questsDone": 40,
+    "questsDone": 43,
     "bosses": [
       "2026-10-26",
       "2026-10-19",
@@ -339,8 +344,9 @@
       "mp",
       "two-repos",
       "average",
-      "three"
+      "three",
+      "weekend"
     ]
   },
-  "syncedAt": "2026-10-30T21:28:51.042Z"
+  "syncedAt": "2026-10-31T20:26:47.261Z"
 }
