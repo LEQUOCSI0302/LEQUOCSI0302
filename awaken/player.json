@@ -2,7 +2,7 @@
   "login": "LEQUOCSI0302",
   "level": 10,
   "overall": "B",
-  "overallPercentile": 0.8655989724081529,
+  "overallPercentile": 0.8682644771357885,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 166,
+      "value": 169,
       "rank": "B",
-      "percentile": 0.7833342150181406
+      "percentile": 0.7866895988942911
     },
     {
       "code": "AGI",
-      "value": 49,
+      "value": 51,
       "rank": "S",
-      "percentile": 0.9593481402541741
+      "percentile": 0.96140814595261
     },
     {
       "code": "INT",
@@ -55,42 +55,28 @@
       "from": "1",
       "to": "2",
       "at": "2026-10-30T21:28:51.042Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "gate-opener",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-25T19:35:01.235Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "escape-artist",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-25T19:35:01.235Z"
     }
   ],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 46
+      "value": 48
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 31
+      "value": 33
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 46
+      "value": 48
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 166
+      "value": 169
     },
     {
       "id": "unbroken",
@@ -110,7 +96,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 32
+      "value": 33
     },
     {
       "id": "gate-opener",
@@ -120,7 +106,7 @@
     {
       "id": "raider",
       "tier": 2,
-      "value": 38
+      "value": 40
     },
     {
       "id": "flawless",
@@ -170,7 +156,7 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 5
+      "value": 6
     },
     {
       "id": "perfect-week",
@@ -180,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 43
+      "value": 46
     },
     {
       "id": "boss-slayer",
@@ -200,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-01",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-31",
         "cleared": 3,
@@ -326,10 +317,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 5,
-    "run": 1,
+    "perfectDays": 6,
+    "run": 2,
     "bestRun": 2,
-    "questsDone": 43,
+    "questsDone": 46,
     "bosses": [
       "2026-10-26",
       "2026-10-19",
@@ -348,5 +339,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-10-31T20:26:47.261Z"
+  "syncedAt": "2026-11-01T21:10:10.916Z"
 }
