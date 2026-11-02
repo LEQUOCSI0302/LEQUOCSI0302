@@ -51,6 +51,13 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "daily-grinder",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-02T23:52:05.830Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "polyglot",
       "from": "1",
       "to": "2",
@@ -155,18 +162,18 @@
     },
     {
       "id": "daily-grinder",
-      "tier": 0,
-      "value": 6
+      "tier": 1,
+      "value": 7
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 46
+      "value": 49
     },
     {
       "id": "boss-slayer",
@@ -186,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-02",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-01",
         "cleared": 3,
@@ -317,10 +329,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 6,
-    "run": 2,
-    "bestRun": 2,
-    "questsDone": 46,
+    "perfectDays": 7,
+    "run": 3,
+    "bestRun": 3,
+    "questsDone": 49,
     "bosses": [
       "2026-10-26",
       "2026-10-19",
@@ -339,5 +351,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-11-01T21:10:10.916Z"
+  "syncedAt": "2026-11-02T23:52:05.830Z"
 }
