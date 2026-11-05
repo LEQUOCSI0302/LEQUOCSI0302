@@ -2,14 +2,14 @@
   "login": "LEQUOCSI0302",
   "level": 10,
   "overall": "A",
-  "overallPercentile": 0.8710296909048034,
+  "overallPercentile": 0.8714731053244138,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
     "element": "Arcane",
     "from": "Jupyter Notebook"
   },
-  "title": "Quickdraw",
+  "title": "YOLO",
   "stats": [
     {
       "code": "STR",
@@ -19,9 +19,9 @@
     },
     {
       "code": "AGI",
-      "value": 52,
+      "value": 53,
       "rank": "S",
-      "percentile": 0.9623804115675303
+      "percentile": 0.9633167633052487
     },
     {
       "code": "INT",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "achievement",
+      "subject": "yolo",
+      "from": "2",
+      "to": "3",
+      "at": "2026-11-05T22:40:22.095Z"
+    },
     {
       "kind": "overall",
       "subject": "Overall rank",
@@ -89,17 +96,17 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 49
+      "value": 50
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 34
+      "value": 35
     },
     {
       "id": "yolo",
-      "tier": 2,
-      "value": 49
+      "tier": 3,
+      "value": 50
     },
     {
       "id": "relentless",
@@ -134,7 +141,7 @@
     {
       "id": "raider",
       "tier": 2,
-      "value": 41
+      "value": 42
     },
     {
       "id": "flawless",
@@ -214,6 +221,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-05",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-04",
         "cleared": 3,
@@ -361,7 +373,7 @@
       }
     ],
     "perfectDays": 9,
-    "run": 5,
+    "run": 0,
     "bestRun": 5,
     "questsDone": 55,
     "bosses": [
@@ -383,5 +395,5 @@
       "issue"
     ]
   },
-  "syncedAt": "2026-11-04T22:36:50.192Z"
+  "syncedAt": "2026-11-05T22:40:22.095Z"
 }
