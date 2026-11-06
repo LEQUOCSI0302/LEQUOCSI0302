@@ -2,7 +2,7 @@
   "login": "LEQUOCSI0302",
   "level": 10,
   "overall": "A",
-  "overallPercentile": 0.8714731053244138,
+  "overallPercentile": 0.8718530519042558,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 172,
+      "value": 174,
       "rank": "B",
-      "percentile": 0.7899572235676414
+      "percentile": 0.7920885423736641
     },
     {
       "code": "AGI",
@@ -83,13 +83,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-11-02T23:52:05.830Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "polyglot",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-30T21:28:51.042Z"
     }
   ],
   "achievements": [
@@ -111,7 +104,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 172
+      "value": 174
     },
     {
       "id": "unbroken",
@@ -186,12 +179,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 50
+      "value": 51
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 9
+      "value": 10
     },
     {
       "id": "perfect-week",
@@ -201,17 +194,17 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 55
+      "value": 58
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "escape-artist",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "collector",
@@ -221,6 +214,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-06",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-05",
         "cleared": 0,
@@ -372,17 +370,18 @@
         "total": 3
       }
     ],
-    "perfectDays": 9,
-    "run": 0,
+    "perfectDays": 10,
+    "run": 1,
     "bestRun": 5,
-    "questsDone": 55,
+    "questsDone": 58,
     "bosses": [
+      "2026-11-02",
       "2026-10-26",
       "2026-10-19",
       "2026-10-12",
       "2026-10-05"
     ],
-    "escapes": 4,
+    "escapes": 5,
     "kinds": [
       "contribute",
       "commit",
@@ -395,5 +394,5 @@
       "issue"
     ]
   },
-  "syncedAt": "2026-11-05T22:40:22.095Z"
+  "syncedAt": "2026-11-06T22:05:43.792Z"
 }
