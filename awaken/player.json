@@ -48,15 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "yolo",
-      "from": "2",
-      "to": "3",
-      "at": "2026-11-05T22:40:22.095Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-12",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-11",
         "cleared": 0,
@@ -391,5 +388,5 @@
       "issue"
     ]
   },
-  "syncedAt": "2026-11-11T23:27:12.576Z"
+  "syncedAt": "2026-11-12T22:42:56.868Z"
 }
