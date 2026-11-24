@@ -2,7 +2,7 @@
   "login": "LEQUOCSI0302",
   "level": 10,
   "overall": "A",
-  "overallPercentile": 0.8718530519042558,
+  "overallPercentile": 0.8726648232807057,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 174,
+      "value": 176,
       "rank": "B",
-      "percentile": 0.7920885423736641
+      "percentile": 0.7941832939525291
     },
     {
       "code": "AGI",
-      "value": 53,
+      "value": 54,
       "rank": "S",
-      "percentile": 0.9633167633052487
+      "percentile": 0.9642189809600699
     },
     {
       "code": "INT",
@@ -53,22 +53,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 50
+      "value": 51
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 35
+      "value": 36
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 50
+      "value": 51
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 174
+      "value": 176
     },
     {
       "id": "unbroken",
@@ -88,7 +88,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 32
+      "value": 31
     },
     {
       "id": "gate-opener",
@@ -98,7 +98,7 @@
     {
       "id": "raider",
       "tier": 2,
-      "value": 42
+      "value": 43
     },
     {
       "id": "flawless",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 51
+      "value": 52
     },
     {
       "id": "daily-grinder",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 59
+      "value": 60
     },
     {
       "id": "boss-slayer",
@@ -168,7 +168,7 @@
     {
       "id": "escape-artist",
       "tier": 1,
-      "value": 5
+      "value": 6
     },
     {
       "id": "collector",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-23",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-22",
         "cleared": 0,
@@ -417,7 +422,7 @@
     "perfectDays": 10,
     "run": 0,
     "bestRun": 5,
-    "questsDone": 59,
+    "questsDone": 60,
     "bosses": [
       "2026-11-02",
       "2026-10-26",
@@ -425,7 +430,7 @@
       "2026-10-12",
       "2026-10-05"
     ],
-    "escapes": 5,
+    "escapes": 6,
     "kinds": [
       "contribute",
       "commit",
@@ -438,5 +443,5 @@
       "issue"
     ]
   },
-  "syncedAt": "2026-11-22T22:27:59.424Z"
+  "syncedAt": "2026-11-24T03:19:24.494Z"
 }
